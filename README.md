@@ -13,20 +13,29 @@ too.
 
 # Components and the usage of each one:
 • 16×2 lcd to display the outputs.
+
 • 4×4, numeric keypad to enter the input.
+
 • 8051(89c52) Microcontroller
+
 • Power supply (5 volts) to provide power to lcd.
-• Crystal Oscillator (12 MHz) responsible for supplying the 
-clock signals in microcontroller.
+
+• Crystal Oscillator (12 MHz) responsible for supplying the clock signals in microcontroller.
+
 • Bread board (To build circuit)
+
 • Potentiometer (Variable Resistor) To adjust Lcd contrast.
+
 • 2 capacitors (22 pF) to be connected with crystal, used to 
 oscillate it.
+
 • 10 K ohm Resistor and 10 uF capacitor, used to create 
 standard reset circuitry (connected to Pin 9 (RST) is the 
 reset PIN).
 
+
 #circuit connections
+
 we connected Port-1 of 89c52 microcontroller to our 4×4
 keypad data pins(P1.0-P1.7). 
 where rows of 4×4 keypad connected to Port-1 pins5,6,7,8 
