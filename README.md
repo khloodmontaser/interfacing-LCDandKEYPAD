@@ -1,5 +1,5 @@
-# LCDandKEYPAD
-usingg Atmega 8052 microcontroller to create a simple calculator, by entering numbers and symbols in 4*4 keypad, and  watching the results being displayed on 16×2 lcd.
+# interfacing LCD and KEYPAD with 8051 Microcontroller
+using Atmega 8052 microcontroller to create a simple calculator, by entering numbers and symbols in 4*4 keypad, and  watching the results being displayed on 16×2 lcd.
 
 # Introduction 
 We aim to use Atmega 8052 microcontroller to create a simple
