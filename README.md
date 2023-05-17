@@ -56,3 +56,6 @@ reset button with pin#9(reset) of 89c52 microcontroller with
 10 Kohm Resistor and 10 uF capacitor.
 Connecting a potentiometer to VEE to control the contrast 
 of the LCD.
+
+# hardware implementation 
+![image](https://github.com/khloodmontaser/LCDandKEYPAD/assets/113125527/431ff9a7-8d7b-4e02-9cdc-2329ee42d1f6)
